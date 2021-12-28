@@ -26,11 +26,12 @@ function multiply(a, b){
 Nothing yet
 
 # __Education__
-* University: 2017 The All-Russian State University of Justice (RLA of the Ministry of Justice of Russia) / Law
-* Self-studying: 
-+ Head First HTML and CSS
-+ HTML Academy [https://htmlacademy.ru/study](https://htmlacademy.ru/study "HTML Academy")
-+ JavaScript [https://learn.javascript.ru/](https://learn.javascript.ru/ "JS Learn")
+University: 2017 The All-Russian State University of Justice (RLA of the Ministry of Justice of Russia) / Law
+
+Self-studying: 
+* Head First HTML and CSS
+* HTML Academy [https://htmlacademy.ru/study](https://htmlacademy.ru/study "HTML Academy")
+* JavaScript [https://learn.javascript.ru/](https://learn.javascript.ru/ "JS Learn")
 
 
 # __Languages__
