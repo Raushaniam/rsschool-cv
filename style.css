@@ -1,0 +1,14 @@
+html, body {
+    padding: 0;
+    margin: 0;
+    color: #000000;
+    font-size: 14px;
+    font-family: "Arial", sans-serif;
+    background-color: #E0FFFF;
+}
+
+h1 {
+    font-family: "Gill Sans", sans-serif;
+    color: #2F4F4F;
+    font-size: 32px;
+}
