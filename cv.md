@@ -50,7 +50,7 @@ Educational projects:
 
 # __Education__
 University: 2017 The All-Russian State University of Justice (RLA of the Ministry of Justice of Russia) / Law
-Тhe Rolling Scopes School: JS/FE Pre-School 2022 (Certificate: [https://app.rs.school/certificate/52o97v4l](https://app.rs.school/certificate/52o97v4l "Certificate"))
+The Rolling Scopes School: JS/FE Pre-School 2022 (Certificate: [https://app.rs.school/certificate/52o97v4l](https://app.rs.school/certificate/52o97v4l "Certificate")
 
 Self-studying: 
 * Head First HTML and CSS
