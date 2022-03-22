@@ -1,1 +1,2 @@
-My cv link: [https://raushaniam.github.io/rsschool-cv/cv](https://raushaniam.github.io/rsschool-cv/cv "My cv")
+My cv md file link: [https://raushaniam.github.io/rsschool-cv/cv](https://raushaniam.github.io/rsschool-cv/cv "My cv")
+My cv page link: [https://raushaniam.github.io/rsschool-cv/](https://raushaniam.github.io/rsschool-cv/ "My cv")
