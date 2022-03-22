@@ -10,7 +10,7 @@
 <body>
     <header>
         <img class="photo" src="avatar.jpg" alt="avatar of the author cv">
-        <h1 id="home">Raushaniya Mullakhmetova</h1>
+        <h1 id="home">Raushania Mullakhmetova</h1>
         <p>
             RSSchool student
         </p>
@@ -84,9 +84,25 @@
             <h2>Code examples:</h2>
             <pre>
                 <code>
-    function multiply(a, b) {
-       return a * b
-    }
+                    function likes(names) {
+                        let a = names.length;
+                        let text = '';
+                        let number = names.length - 2;
+                        
+                             if(a===0) {
+                                text = "no one likes this";
+                             } else if (a===1) {
+                                  text = `${names[0]} likes this`; 
+                             } else if (a===2) {
+                              text = `${names[0]} and ${names[1]} like this`; 
+                             } else if (a===3) {
+                             text = `${names[0]}, ${names[1]} and ${names[2]} like this`;
+                             } else if (a>=4) {
+                             text = `${names[0]}, ${names[1]} and ${number} others like this`;
+                             }
+                       
+                        return text;
+                       }
                 </code>
            </pre>
         </section>
@@ -94,10 +110,21 @@
         <section id="experience">
             <h2>Work experience</h2>
             <p>
-                Nothing yet<br>
-                Educational projects:<br>
-                this CV
+                Nothing yet
             </p>
+            <ul class="projects-list">
+                <li><h3>Educational projects:</h3></li>
+                <li><a href="https://raushaniam.github.io/rsschool-cv">This CV</a></li>
+                <li><a href="https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/portfolio/">Portfolio</a>
+                </li>
+                <li><a href="https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/eco-sounds/">Eco
+                        sounds</a></li>
+                <li><a href="https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/random-jokes/"> Random
+                        jokes</a></li>
+                <li><a href="https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/tic-tac-toe/">Tic tac
+                        toe</a></li>
+            </ul>
+
         </section>
 
         <section id="education">
@@ -105,6 +132,8 @@
             <ul class="list">
                 <li>University:<br>2017 The All-Russian State University of Justice (RLA of the Ministry of Justice of
                     Russia) / Law</li>
+                <li>The Rolling Scopes School: JS/FE Pre-School 2022 (<a
+                        href="https://app.rs.school/certificate/52o97v4l">Certificate</a>)</li>
                 <li>Self-studying:
                     <ul class="list">
                         <li>Head First HTML and CSS</li>

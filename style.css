@@ -88,7 +88,7 @@ pre {
     width: 45%;
 }
 
-.list {
+.list, .projects-list {
     list-style-type: none;
 }
 
