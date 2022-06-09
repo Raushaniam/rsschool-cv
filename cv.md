@@ -1,4 +1,4 @@
-# __Raushaniya Mullakhmetova__
+# __Raushania Mullakhmetova__
 
 # __Contacts:__
 * Location: Izhevsk, Russia
@@ -17,16 +17,41 @@ Beginner level: HTML&CSS, JavaScript, GitHub
 
 # __Code examples:__
 ```
-function multiply(a, b){
- return a * b
+function likes(names) {
+ let a = names.length;
+ let text = '';
+ let number = names.length - 2;
+ 
+      if(a===0) {
+         text = "no one likes this";
+      } else if (a===1) {
+           text = `${names[0]} likes this`; 
+      } else if (a===2) {
+       text = `${names[0]} and ${names[1]} like this`; 
+      } else if (a===3) {
+      text = `${names[0]}, ${names[1]} and ${names[2]} like this`;
+      } else if (a>=4) {
+      text = `${names[0]}, ${names[1]} and ${number} others like this`;
+      }
+
+ return text;
 }
 ```
 
 # __Work experience__
 Nothing yet
 
+Educational projects:
+* This CV: [https://raushaniam.github.io/rsschool-cv](https://raushaniam.github.io/rsschool-cv "CV")
+* Portfolio: [https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/portfolio/](https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/portfolio/ "Portfolio")
+* Eco sounds: [https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/eco-sounds/](https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/eco-sounds/ "Eco-sounds")
+* Random jokes: [https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/random-jokes/](https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/random-jokes/ "Random jokes")
+* Tic tac toe: [https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/tic-tac-toe/](https://rolling-scopes-school.github.io/raushaniam-JSFEPRESCHOOL/tic-tac-toe/ "Tic tac toe")
+
 # __Education__
 University: 2017 The All-Russian State University of Justice (RLA of the Ministry of Justice of Russia) / Law
+
+The Rolling Scopes School: JS/FE Pre-School 2022 (Certificate: [https://app.rs.school/certificate/52o97v4l](https://app.rs.school/certificate/52o97v4l "Certificate"))
 
 Self-studying: 
 * Head First HTML and CSS
