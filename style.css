@@ -19,6 +19,7 @@ h1 {
 h2 {
     font-size: 24px;
     font-weight: bold;
+    border: 1px solid #e9d5d5;
 }
 
 a {
@@ -92,8 +93,8 @@ pre {
     list-style-type: none;
 }
 
-section#about-me {
-    margin: 30px;
+.text {
+    margin: 0px 160px;
 }
 
 .git-info {
