@@ -1,5 +1,7 @@
 # __Raushaniia Mullakhmetova__
 
+![photo](./assets/jpg/photo.jpg "Фото")
+
 # __Contacts:__
 * Location: Izhevsk, Russia
 * Email: mullakhmetova18@gmail.com
